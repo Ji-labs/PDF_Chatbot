@@ -4,6 +4,6 @@ langchain
 langchain-community
 faiss-cpu
 torch
-transformers
+transformers[torch]
 huggingface-hub
 sentence-transformers
