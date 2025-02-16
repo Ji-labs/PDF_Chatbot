@@ -7,3 +7,5 @@ torch
 transformers[torch]
 huggingface-hub
 sentence-transformers
+accelerate
+psutil
